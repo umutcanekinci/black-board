@@ -1,11 +1,6 @@
 import pygame
 from sys import exit
-
-GUI_TEXT_COLOR = 'green'
-PAGE_SENSITIVITY = 3
-PAGE_FRICTION = 1
-MAX_PAGE_SPEED = 20
-NOTIFICATION_HIDE_SPEED = 1
+from settings import *
 
 class Text:
 
